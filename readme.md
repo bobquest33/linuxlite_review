@@ -60,3 +60,5 @@ Another area which I feel Linux Lite can improve is my supporting a developer fr
 ### Final Thoughts
 
 Finally I would say for me this is a distribution which I want to use as a daily driver simply because of the lovely dark theme and the simplicity of the Software and familiar interface it provides. Only if the process of enabling UEFI is simpler on LinuxLite , this will become my most recommended Linux distribution.
+
+_Explore Linux Lite [here](https://www.linuxliteos.com/)_
